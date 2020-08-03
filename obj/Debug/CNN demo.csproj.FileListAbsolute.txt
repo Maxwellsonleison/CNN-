@@ -1,0 +1,10 @@
+D:\VisualProject\CNN demo\bin\Debug\CNN demo.exe.config
+D:\VisualProject\CNN demo\bin\Debug\CNN demo.exe
+D:\VisualProject\CNN demo\bin\Debug\CNN demo.pdb
+D:\VisualProject\CNN demo\obj\Debug\CNN_demo.Form1.resources
+D:\VisualProject\CNN demo\obj\Debug\CNN_demo.Properties.Resources.resources
+D:\VisualProject\CNN demo\obj\Debug\CNN demo.csproj.GenerateResource.cache
+D:\VisualProject\CNN demo\obj\Debug\CNN demo.csproj.CoreCompileInputs.cache
+D:\VisualProject\CNN demo\obj\Debug\CNN demo.exe
+D:\VisualProject\CNN demo\obj\Debug\CNN demo.pdb
+D:\VisualProject\CNN demo\obj\Debug\CNN demo.csprojAssemblyReference.cache
